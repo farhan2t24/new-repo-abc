@@ -1,0 +1,1 @@
+A cross-domain AI system that watches facial expressions and hand gestures through the camera to understand user behaviour, detect distress or anomalies, and autonomously take context-aware actions (like SOS calls, notifications, or engagement triggers).
